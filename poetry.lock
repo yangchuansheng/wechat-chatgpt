@@ -258,7 +258,7 @@ requests = [
 ]
 revchatgpt = [
     {file = "revChatGPT-0.0.33.5-py3-none-any.whl", hash = "sha256:f6be496e04b413902d43f00b77e57a79983356aba6acaca83d608f519944c8dc"},
-    {file = "revChatGPT-0.0.33.5.tar.gz", hash = "sha256:9634751f622fce2550d2b16a4ce45d97fe827f7593a2989d79b5e125804985fc"},
+    {file = "revChatGPT-0.0.33.5.tar.gz", hash = "sha256:c771144bcb0b59fdf18ca064cdaffcd4c10be1d2dbcb289eecdea3e6cd0f4137"},
 ]
 rfc3986 = [
     {file = "rfc3986-1.5.0-py2.py3-none-any.whl", hash = "sha256:a86d6e1f5b1dc238b218b012df0aa79409667bb209e58da56d0b94704e712a97"},
